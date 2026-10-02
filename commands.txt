@@ -1,1 +1,13 @@
+
 $ pip list ( to view the installed packages ) 
+
+
+
+
+for git first time
+
+push the changes to github
+==========================
+git add .
+git commit -m "Made some updates"
+git push
