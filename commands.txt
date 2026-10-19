@@ -5,6 +5,14 @@ $ pip list ( to view the installed packages )
 
 
 for git first time
+===================
+git init [in the local directory]
+git add .
+git commit -m "Initial commit"
+[create a repo in github]
+git branch -M main
+git remote add origin <YOUR_REPOSITORY_URL>
+git push -u origin main
 
 push the changes to github
 ==========================
